@@ -1,0 +1,5 @@
+Processor: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: Monster
+IP Address: 192.168.0.62

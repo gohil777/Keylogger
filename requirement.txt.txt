@@ -1,0 +1,13 @@
+We have to install first some libraries for make a keylogger 
+that libraries are below:
+
+pynput
+PIL
+scipy
+wavio
+sounddevice
+win32clipboard
+socket
+platform
+requests
+psutil
